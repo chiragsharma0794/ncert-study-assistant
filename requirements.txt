@@ -1,0 +1,20 @@
+# ── PDF Extraction ──────────────────────────────────────────
+pdfplumber>=0.11.0         # table-aware PDF parsing
+PyMuPDF>=1.24.0            # fitz: fast PDF text extraction (fallback)
+
+# ── Text Processing & Tokenization ─────────────────────────
+nltk>=3.9                  # sentence/word tokenizers
+transformers>=4.40         # BERT WordPiece tokenizer for token counting
+
+# ── Sparse Retrieval ───────────────────────────────────────
+rank-bm25>=0.2.2           # Okapi BM25 implementation
+scikit-learn>=1.5          # TF-IDF vectorizer + cosine similarity
+
+# ── LLM Generation (Gemini) ────────────────────────────────
+google-genai>=1.0          # Google Gemini API client (new SDK)
+
+# ── Data Science Essentials ─────────────────────────────────
+numpy>=1.26                # numerical arrays
+
+# ── Utilities ──────────────────────────────────────────────
+python-dotenv>=1.0.0       # load API keys from .env safely

@@ -1,0 +1,28 @@
+# ── Python ──────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ── Virtual Environment ────────────────────
+.venv/
+venv/
+env/
+
+# ── Secrets ─────────────────────────────────
+.env
+
+# ── Jupyter ─────────────────────────────────
+.ipynb_checkpoints/
+
+# ── OS junk ─────────────────────────────────
+Thumbs.db
+.DS_Store
+
+# ── IDE ─────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Outputs (optional: track or ignore) ────
+# outputs/

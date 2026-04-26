@@ -1,0 +1,162 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the basic structural and functional unit of all living organisms?",
+    "expected_answer": "The cell is the basic structural and functional unit of all living organisms.",
+    "key_terms": ["cell", "structural", "functional", "unit", "living"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q02",
+    "question": "What is the cell membrane also called?",
+    "expected_answer": "The cell membrane is also called the plasma membrane.",
+    "key_terms": ["plasma", "membrane"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q03",
+    "question": "What is the function of mitochondria in a cell?",
+    "expected_answer": "Mitochondria are the powerhouses of the cell. They release energy stored in food as ATP (Adenosine Triphosphate).",
+    "key_terms": ["energy", "ATP", "powerhouse"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q04",
+    "question": "What are lysosomes and what do they do?",
+    "expected_answer": "Lysosomes are the clean-up system of the cell. They break down waste materials and damaged parts of the cell.",
+    "key_terms": ["lysosomes", "clean", "waste", "break", "damaged"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q05",
+    "question": "What is the main component of the plant cell wall?",
+    "expected_answer": "The plant cell wall is primarily made of cellulose, a type of carbohydrate formed by many glucose units linked together.",
+    "key_terms": ["cellulose", "carbohydrate", "glucose"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q06",
+    "question": "What are the two types of endoplasmic reticulum?",
+    "expected_answer": "The two types are Rough Endoplasmic Reticulum (RER) which has ribosomes and Smooth Endoplasmic Reticulum (SER) which does not.",
+    "key_terms": ["rough", "smooth", "endoplasmic", "reticulum", "RER", "SER"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q07",
+    "question": "What is the difference between prokaryotic and eukaryotic cells?",
+    "expected_answer": "Prokaryotic cells do not have a well-defined nucleus or membrane-bound organelles. Eukaryotic cells have a well-defined nucleus enclosed by a nuclear membrane and contain membrane-bound organelles.",
+    "key_terms": ["prokaryotic", "eukaryotic", "nucleus", "membrane", "organelles"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q08",
+    "question": "What are chromoplasts?",
+    "expected_answer": "Chromoplasts are coloured plastids found in plant cells that contain pigments giving flowers and fruits their colour.",
+    "key_terms": ["chromoplasts", "plastids", "colour", "pigment"],
+    "type": "factual",
+    "in_scope": true
+  },
+  {
+    "id": "q09",
+    "question": "How does water enter root cells from the soil?",
+    "expected_answer": "Water from the soil enters root cells by the process of osmosis.",
+    "key_terms": ["water", "root", "osmosis"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q10",
+    "question": "Why do plant cells maintain their shape even without muscles?",
+    "expected_answer": "Plant cells have a rigid cell wall made of cellulose that provides structural support and maintains their shape.",
+    "key_terms": ["cell wall", "cellulose", "rigid", "shape", "structural"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q11",
+    "question": "Which organelle is responsible for making proteins in the cell?",
+    "expected_answer": "Ribosomes are responsible for protein synthesis in the cell. They are sometimes called the protein factories.",
+    "key_terms": ["ribosomes", "protein", "synthesis", "factories"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q12",
+    "question": "What happens to a plant cell when it loses water?",
+    "expected_answer": "When a plant cell loses water, the vacuole shrinks, the cell membrane pulls away from the cell wall (plasmolysis), the cell becomes less firm, and the plant wilts.",
+    "key_terms": ["vacuole", "shrinks", "wilt", "plasmolysis", "cell wall"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q13",
+    "question": "How do cells produce new cells for growth and repair?",
+    "expected_answer": "Cells produce new cells through the process of cell division. Mitosis produces two identical daughter cells for growth and repair.",
+    "key_terms": ["cell division", "mitosis", "daughter cells", "growth"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q14",
+    "question": "What kind of cell division produces gametes and how is it different from regular division?",
+    "expected_answer": "Meiosis produces gametes. Unlike mitosis which produces two identical cells, meiosis produces four daughter cells each with half the number of chromosomes.",
+    "key_terms": ["meiosis", "gametes", "half", "chromosomes", "four"],
+    "type": "paraphrased",
+    "in_scope": true
+  },
+  {
+    "id": "q15",
+    "question": "What is the atomic number of carbon?",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  },
+  {
+    "id": "q16",
+    "question": "Explain Newton's third law of motion.",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  },
+  {
+    "id": "q17",
+    "question": "Who invented the telescope?",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  },
+  {
+    "id": "q18",
+    "question": "What is the speed of sound in air?",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  },
+  {
+    "id": "q19",
+    "question": "How does photosynthesis work in detail?",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  },
+  {
+    "id": "q20",
+    "question": "What are the properties of acids and bases?",
+    "expected_answer": null,
+    "key_terms": [],
+    "type": "out_of_scope",
+    "in_scope": false
+  }
+]

@@ -1,0 +1,714 @@
+[
+  {
+    "chunk_id": "fixed_0001",
+    "source_id": "chunk_001",
+    "page": 1,
+    "type": "concept",
+    "text": "chapter 2 cell : the building block of life it is widely accepted amongst the scientific community that life originated in water. some researchers believe that life may have originated in small water pools with changing environmental think it over conditions rather than in the oceans. hot springs are examples of such environments. in india, the hot springs of puga valley in - where does a cell ladakh maintain very high temperatures ( nearly at the boiling come from? point of water ) even in a cold climate. these environmental - how have conditions seem to be similar to those on the early earth, about technological 3. 5 billion years ago. the organisms living in these hot springs interventions are mostly heat - loving bacteria called thermophiles, which are facilitated the unicellular. creation of new knowledge in scientists from the birbal sahni institute of palaeosciences, understanding the lucknow, studied these hot springs and found that calcium carbonate world beyond the formed rapidly around them. these deposits may have",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0002",
+    "source_id": "chunk_001",
+    "page": 1,
+    "type": "concept",
+    "text": "##ular. creation of new knowledge in scientists from the birbal sahni institute of palaeosciences, understanding the lucknow, studied these hot springs and found that calcium carbonate world beyond the formed rapidly around them. these deposits may have protected naked eye?",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "fixed_0003",
+    "source_id": "chunk_002",
+    "page": 1,
+    "type": "concept",
+    "text": "early organic molecules from harmful radiation and extreme\n- How is the cell conditions, and they may have also helped in the formation of the\nstructural and first protective membrane — the barrier that defines a cell. functional unit of\nAll living organisms are made up of cells. The cell represents the\nlife? basic level at which life exists. Some organisms, such as bacteria or\n- How does a cell\nyeast consist of only one cell (unicellular), while others like plants,\nmultiply? fish, birds or humans are made up of millions of cells (multicellular)\nthat work together. A group of similar cells performing similar",
+    "token_count": 124
+  },
+  {
+    "chunk_id": "fixed_0004",
+    "source_id": "chunk_003",
+    "page": 2,
+    "type": "concept",
+    "text": "functions forms tissues. different tissues are organised to form an organ and several 1 km organs work together to form organ systems. such as, nasal pores, nasal cavity, trachea and lungs form respiratory system. 100 m even when cells are organised into rocket tissues, organs, and organ systems the cell remains the fundamental unit of structure 10 m and function in all living organisms. this makes us wonder how such tiny cells perform so many different activities. what 1 m human height are the different components of a cell? how do cells in our body communicate with each other? do cells live forever, or do they die? in 0. 1 m this chapter, we will explore the answers to chicken egg these questions as we enter the fascinating world of cells! 1 cm 2. 1 how to study cells? what do we call the ability of the human fish egg eye to see two very close objects as separate 1 mm and distinct? imagine two tiny dots drawn on a piece of paper. as the dots",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0005",
+    "source_id": "chunk_003",
+    "page": 2,
+    "type": "concept",
+    "text": "! 1 cm 2. 1 how to study cells? what do we call the ability of the human fish egg eye to see two very close objects as separate 1 mm and distinct? imagine two tiny dots drawn on a piece of paper. as the dots are moved closer, there comes a point at which they 100µm can no longer be seen as separate.",
+    "token_count": 72
+  },
+  {
+    "chunk_id": "fixed_0006",
+    "source_id": "chunk_004",
+    "page": 2,
+    "type": "concept",
+    "text": "when most plant and viewed from about 25 cm ( the near point of animal cells human eye ), two points separated by about 10 µm 0. 1 mm can be seen as distinct ; otherwise, nucleus they appear as a single point. this is called most bacteria the limit of resolution of the human eye, mitochondrion 1 µm which is 0. 1 mm. a cell is usually too small to be seen by the unaided eye ( fig. 2. 1 ). this raises smallest bacteria 100nm an important question — how have cell viruses biologists studied the structure and function of cells that are much smaller than the limit ribosomes of resolution of the human eye? 10nm you have learnt about proteins grade 8 convex lens. a convex lens or a curiosity lipids chapter 10 combination of lenses, i. e., an 1 nm objective lens and an eyepiece are used for small molecules the magnification of an object ( fig. 2. 1 ) to",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0007",
+    "source_id": "chunk_004",
+    "page": 2,
+    "type": "concept",
+    "text": "lens. a convex lens or a curiosity lipids chapter 10 combination of lenses, i. e., an 1 nm objective lens and an eyepiece are used for small molecules the magnification of an object ( fig. 2. 1 ) to make it appear larger. atoms 0. 1 nm robert hooke was the first person to observe a cell in 1665 using a self - designed microscope ( capable of about 200 – 300x magnification ). while examining a thin slice of cork, he observed small box - like compartments and named them ‘ cells ’.",
+    "token_count": 114
+  },
+  {
+    "chunk_id": "fixed_0008",
+    "source_id": "chunk_005",
+    "page": 2,
+    "type": "concept",
+    "text": "In school laboratories, light microscopes are used to observe objects using\neye\ndedianU\nepocsorcimthgiL\nepocsorcimnortcelE\nNeem Tree\nGreat Indian Bustard\nAmoeba\nC\nGrade 8 Fig. 2.1: Size of the objects and its visibility through\nCuriosity\nChapter 2 unaided to aided eye",
+    "token_count": 67
+  },
+  {
+    "chunk_id": "fixed_0009",
+    "source_id": "chunk_006",
+    "page": 3,
+    "type": "concept",
+    "text": "Eye piece\nCourse adjustment different objective lenses (e.g., 10X, 40X) to achieve\nknob\nbetter magnification and resolution under visible\nlight. Explore different parts of a microscope\nBody tube (Fig. 2.2) in your school laboratory and\nGrade 8\nuse it to observe fine structures of various Curiosity\nFine adjustment Objective materials. Under the microscope, you Chapter 9\nknob lens will see a magnified image of an object. Can you\nHandle estimate its actual size?\nStage\nMirror",
+    "token_count": 97
+  },
+  {
+    "chunk_id": "fixed_0010",
+    "source_id": "chunk_007",
+    "page": 3,
+    "type": "activity",
+    "text": "activity 2. 1 : let us estimate the size of a cell base 1. take a transparent ruler with millimetre ( mm ) markings. fig. 2. 2 : structure of a light microscope 2. place the ruler on the stage of microscope, focus on it using the adjustment knob and observe the diameter of the circular field of view through ready to go beyond the eyepiece and measure it in mm. 3. convert the diameter from mm to micrometre ( µm ). suppose the diameter of the visible field is 5 mm, meaning 5 × 1000 = 5000 µm. 4. remove the ruler and place an onion peel slide on the stage of the microscope. 5. focus on the slide and count the number of cells fig. 2. 3 : an electron microscope present along the diameter of the field of view in apart from light microscopes, one straight line. scientists also use powerful electron microscopes that reveal the fine details 6. estimate the real size of the cell using the",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0011",
+    "source_id": "chunk_007",
+    "page": 3,
+    "type": "activity",
+    "text": "2. 3 : an electron microscope present along the diameter of the field of view in apart from light microscopes, one straight line. scientists also use powerful electron microscopes that reveal the fine details 6. estimate the real size of the cell using the of a cell structure. these instruments formula : use a beam of electrons instead of light to produce highly magnified images, allowing us to see cell structure at unit conversion : the nanometre scale with remarkable 1 millimetre ( mm ) = 1000 micrometre ( µm ) clarity ( a nanometre is one - billionth of a metre ).",
+    "token_count": 123
+  },
+  {
+    "chunk_id": "fixed_0012",
+    "source_id": "chunk_008",
+    "page": 3,
+    "type": "concept",
+    "text": "diameter of the visible field in micrometre estimated size of the onion peel cell = number of cells along the diameter suppose, 25 cells are seen along the diameter. in that case, the size of one onion cell would be 5000 µm / 25 = 200 µm. if the estimated size of an onion peel cell is 200 µm, how much does a light microscope magnify this cell? the total magnification of a microscope depends on its magnifying power of the eyepiece and the objective lens. if both the eyepiece and the objective lens have the magnifying power of 10x, then the total magnification will be 100x. this means that a cell with an estimated size of 200 µm will appear 100 times larger. thus, a microscope allows us to see very small structures clearly and is an essential tool for studying the cell structure. over the years, scientists have improved the microscope by improving its three main features — resolution ( measure of clarity ),",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0013",
+    "source_id": "chunk_008",
+    "page": 3,
+    "type": "concept",
+    "text": "100 times larger. thus, a microscope allows us to see very small structures clearly and is an essential tool for studying the cell structure. over the years, scientists have improved the microscope by improving its three main features — resolution ( measure of clarity ), contrast ( the difference in brightness between various",
+    "token_count": 58
+  },
+  {
+    "chunk_id": "fixed_0014",
+    "source_id": "chunk_009",
+    "page": 4,
+    "type": "concept",
+    "text": "parts of an object ), and magnification. these improvements stomata have turned microscope into a powerful tool for studying cells. you can see a picture of the lower surface of colocasia leaf observed under a scanning electron microscope ( fig. 2. 4 ). 2. 2 structure of a cell you have learnt that cells are organised into specialised tissues and organs, and collectively perform specific fig. 2. 4 : electron micrograph of lower surface of a colocasia leaf showing stomata function. for these cells to function as units, they must be able to interact with one another and with their surroundings. these interactions occur at the cell boundary, where substances move between the cells and their external environment. even single - celled organisms exchange materials and respond to their environment through cell membrane. 2. 2. 1 cell membrane — the universal feature of a cell the cell membrane is a thin boundary that surrounds a cell and protects its contents. it defines the individuality of a cell and",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0015",
+    "source_id": "chunk_009",
+    "page": 4,
+    "type": "concept",
+    "text": "exchange materials and respond to their environment through cell membrane. 2. 2. 1 cell membrane — the universal feature of a cell the cell membrane is a thin boundary that surrounds a cell and protects its contents. it defines the individuality of a cell and is also called the plasma membrane. the cell membrane is selectively permeable, which means it allows some substances to pass through it while blocking others.",
+    "token_count": 81
+  },
+  {
+    "chunk_id": "fixed_0016",
+    "source_id": "chunk_010",
+    "page": 4,
+    "type": "question",
+    "text": "You have\nGrade 7\nlearnt how oxygen and carbon dioxide move across the membranes of Curiosity\nChapter 9\nalveoli in the lungs. How does the structure of the cell membrane in the\ncells of alveoli control the movement of substances across it?",
+    "token_count": 48
+  },
+  {
+    "chunk_id": "fixed_0017",
+    "source_id": "chunk_011",
+    "page": 4,
+    "type": "activity",
+    "text": "activity 2. 2 : let us experiment experimental set - up 1. with the help of a kitchen knife, beaker a beaker b carefully cut a potato into two pieces of roughly equal size ( fig. 2. 5 ). 2. measure and record the initial weight of both the pieces using a weighing balance. 3. put one piece of the potato in beaker a with plain water. ( a ) initial ( b ) 4. put the other piece of the potato in beaker b with 20 per cent salt or sugar solution. 5. leave them undisturbed for about an hour or until you notice a visible change in the size of the pieces. 6. measure and record the final weight ( a ) final ( b ) of each piece. 7. calculate the difference between the initial and their final weights. what do you observe? you may observe that — beaker a — the potato piece swells. fig. 2. 5 : experimental set - up, and initial and",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0018",
+    "source_id": "chunk_011",
+    "page": 4,
+    "type": "activity",
+    "text": "each piece. 7. calculate the difference between the initial and their final weights. what do you observe? you may observe that — beaker a — the potato piece swells. fig. 2. 5 : experimental set - up, and initial and final states of potato pieces in ( a ) plain beaker b — the potato piece shrinks. water, and ( b ) 20 per cent salt solution",
+    "token_count": 81
+  },
+  {
+    "chunk_id": "fixed_0019",
+    "source_id": "chunk_012",
+    "page": 5,
+    "type": "question",
+    "text": "what if... what do you infer? what do you expect in terms of changes in their weight? the weight of the potato piece in beaker a has increased, while mung bean the weight of the potato piece in beaker b has decreased. this happens seeds are because the cell membrane allows water to move in and out of the cell kept in a but not the sugar or salt molecules. water moves from an area with more concentrated water and less solute ( dilute solution ) to an area with less water and more solution after solute ( concentrated solution ) until the concentrations in the two areas soaking in water for 12 become equal. this movement of water through a selectively permeable hours? what membrane is called osmosis. you have learnt in activities 7. 8 grade 8 will happen ( dye spreading in water ) and 7. 9 ( fragrance spreading in air ) in curiosity chapter 7 to them? grade 8 that particles of matter intermix, due to a",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0020",
+    "source_id": "chunk_012",
+    "page": 5,
+    "type": "question",
+    "text": "##is. you have learnt in activities 7. 8 grade 8 will happen ( dye spreading in water ) and 7. 9 ( fragrance spreading in air ) in curiosity chapter 7 to them? grade 8 that particles of matter intermix, due to a difference in their concentrations, also called a concentration gradient. diffusion is the net movement of particles from a higher to a lower concentration ( which occurs even without a membrane ). osmosis is the diffusion of water across a selectively permeable membrane.",
+    "token_count": 101
+  },
+  {
+    "chunk_id": "fixed_0021",
+    "source_id": "chunk_013",
+    "page": 5,
+    "type": "concept",
+    "text": "in plants, water from the soil enters root cells by this process of osmosis. what if... a cell is kept in salt or sugar solutions of different concentrations? solute concentration of extracellular medium = solute concentration of intracellular isotonic medium — isotonic solution solution solute concentration of extracellular medium < solute concentration of intracellular hypotonic medium — hypotonic solution solution solute concentration of extracellular medium > solute concentration of intracellular hypertonic medium — hypertonic solution solution fig. 2. 6 : effect of solutions of different concentrations on a cell structurally, the cell membrane is extremely thin, about 7 to 10 nanometres various types of proteins ( nm ) thick ( 1 nanometre = 0. 000001 mm ). it is made up of lipids ( fats ) and proteins. the fluid - mosaic model explains its structure ( fig. 2. 7 ) : lipid y the membrane has a lipid bilayer",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0022",
+    "source_id": "chunk_013",
+    "page": 5,
+    "type": "concept",
+    "text": "= 0. 000001 mm ). it is made up of lipids ( fats ) and proteins. the fluid - mosaic model explains its structure ( fig. 2. 7 ) : lipid y the membrane has a lipid bilayer ( two bilayer layers of special fat molecules with water attracting heads outwards and fig. 2. 7 : structure of a cell membrane water repelling tails inwards ) with proteins embedded in them. - the molecules can move sideways, flip and rotate within the membrane. hence, it is fluid. - proteins in the membrane act like gatekeepers in helping substances pass through.",
+    "token_count": 125
+  },
+  {
+    "chunk_id": "fixed_0023",
+    "source_id": "chunk_014",
+    "page": 6,
+    "type": "concept",
+    "text": "- Since the molecules are arranged like tiles in a mosaic, it is called the\n‘mosaic’ model.\nAll living cells communicate with their surroundings and their\nneighbouring cells through the cell membrane. However, cells of plant,\nfungi, and bacteria have an additional layer around the cell membrane,\ncalled the cell wall. What do you think is the necessity of the cell wall in\nthese cells?",
+    "token_count": 76
+  },
+  {
+    "chunk_id": "fixed_0024",
+    "source_id": "chunk_015",
+    "page": 6,
+    "type": "activity",
+    "text": "activity 2. 3 : let us investigate 1. prepare temporary slides of a thin peel of an onion leaf or a rhoeo ( cradle lily ) leaf and mount it with safranin using cover slip to observe plant cells under a microscope. ( a ) 2. similarly, prepare a temporary slide of cheek cells by gently scraping the inner side of your cheek with a cotton swab or the blunt end of a toothpick. 3. spread the cheek cells on a clean glass slide. 4. add a drop of water followed by a few drops of methylene blue stain and carefully place a coverslip. 5. observe both the slides under a microscope. what do you observe? onion peel cells ( fig. 2. 8a ) or rhoeo leaf peel cells are box - shaped and regularly arranged, whereas cheek cells are irregularly ( b ) arranged ( fig. 2. 8b ). why do you think this difference exists? fig. 2. 8 : ( a )",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0025",
+    "source_id": "chunk_015",
+    "page": 6,
+    "type": "activity",
+    "text": "rhoeo leaf peel cells are box - shaped and regularly arranged, whereas cheek cells are irregularly ( b ) arranged ( fig. 2. 8b ). why do you think this difference exists? fig. 2. 8 : ( a ) the onion peel cells, and prepare two slides of a rhoeo leaf peel and human cheek cells again, and ( b ) human cheek cells put 20 per cent sugar solution on them. observe them under a microscope after half an hour. what do you observe?",
+    "token_count": 103
+  },
+  {
+    "chunk_id": "fixed_0026",
+    "source_id": "chunk_016",
+    "page": 6,
+    "type": "concept",
+    "text": "you must have observed that the boundaries of the plant cells remain the same but their inner content shrinks, and the space between the inner and outer boundaries increases ( fig. 2. 9a and b ). you may observe that the cheek cells, on the other hand, have shrunk considerably. 2. 2. 2 cell wall — the outer covering of cells in general, plants cannot move from place to place, so they need a rigid structure to withstand environmental stresses like wind and rain. therefore, plant cells have an additional covering outside the cell membrane ( a ) called a cell wall. the cell wall also helps leaves and flowers remain firm, and maintain their shapes and help plants stay upright. although rigid the cell wall is permeable, which means water and some dissolved minerals can pass through it. along with the selective permeability of the cell membrane, the permeability of the cell wall helps plant roots absorb water and nutrients from the soil. when we place a rhoe",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0027",
+    "source_id": "chunk_016",
+    "page": 6,
+    "type": "concept",
+    "text": ", which means water and some dissolved minerals can pass through it. along with the selective permeability of the cell membrane, the permeability of the cell wall helps plant roots absorb water and nutrients from the soil. when we place a rhoeo leaf or an onion peel in a concentrated sugar solution the plant cells lose water due to osmosis. however, the cells do not shrink in size because their rigid cell wall maintains their shape.",
+    "token_count": 90
+  },
+  {
+    "chunk_id": "fixed_0028",
+    "source_id": "chunk_017",
+    "page": 6,
+    "type": "concept",
+    "text": "The inner\ncontent of a cell shrinks as the cell membrane pulls away from the cell wall. (b)\nThis shows that the cell wall helps plant cells remain firm in their original\nFig. 2.9: Cradle lily leaf\nshape. peel cells (a) in water, and\nAnimal cells, such as cheek cells do not have a cell wall. Therefore, (b) in 20 per cent sugar\nwhen placed in a concentrated sugar solution, they lose water and shrink. solution",
+    "token_count": 95
+  },
+  {
+    "chunk_id": "fixed_0029",
+    "source_id": "chunk_018",
+    "page": 7,
+    "type": "question",
+    "text": "Without a rigid cell wall, animal cells can change shape easily. This cellular\nflexibility supports the overall movement and functioning of animal tissues. The plant cell wall is primarily made of cellulose, a type of carbohydrate\nformed by many glucose units linked together. Cellulose in our diet acts\nas roughage, helping in digestion. Some microorganisms, like fungi and\nbacteria also have a cell wall to provide protection and structural support\nto their cells. Pause and Ponder\n1. What argument would you give for the necessity of a cell wall in plants\nusually fixed in one place versus in animals usually moving from one\nplace to the other? 2. What consequences would you predict for a plant cell if its cell wall were\nto become as flexible as a cell membrane? 3. Why is it important to cut the two potato pieces in roughly equal size and\nmeasure their initial weight before placing them in different liquids?",
+    "token_count": 184
+  },
+  {
+    "chunk_id": "fixed_0030",
+    "source_id": "chunk_019",
+    "page": 7,
+    "type": "concept",
+    "text": "2.3 The Cell Interior — A Coordinated Working System\nYou have learnt that most cells have three basic parts:\nGrade 7\n- a selectively permeable membrane called the plasma Curiosity\nChapter 9\nmembrane,\n- a semi-fluid, jelly-like substance called the cytoplasm, and\n- a prominent nucleus. In addition to the nucleus, the cytoplasm contains several sub-cellular\ncomponents called organelles, along with other substances present in it,\nmost of which are only visible with an electron microscope.",
+    "token_count": 103
+  },
+  {
+    "chunk_id": "fixed_0031",
+    "source_id": "chunk_020",
+    "page": 7,
+    "type": "activity",
+    "text": "activity 2. 4 : let us study vacuole lysosome cell membrane nucleus vacuole nucleolus endoplasmic chloroplast reticulum cell wall mitochondria cytoplasm cytoplasm nucleoid ribosome appendage for ( genetic material ) ribosome locomotion ribosome golgi body ( a ) ( b ) ( c ) fig. 2. 10 : ( a ) a typical bacterial cell, ( b ) a typical plant cell, and ( c ) a typical animal cell 1. study the given diagrams of a bacterial cell, a plant cell, and an animal cell ( fig. 2. 10a, b and c ). 2. observe the different structures present in each of them. 3. record your observations in table 2. 1. a bacterial cell lacks a well - defined nucleus and membrane - bound organelles ( organelles surrounded by their own membranes ). such cells are",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0032",
+    "source_id": "chunk_020",
+    "page": 7,
+    "type": "activity",
+    "text": ". observe the different structures present in each of them. 3. record your observations in table 2. 1. a bacterial cell lacks a well - defined nucleus and membrane - bound organelles ( organelles surrounded by their own membranes ). such cells are called prokaryotic cells ( pro means primitive and karyon means",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "fixed_0033",
+    "source_id": "chunk_021",
+    "page": 8,
+    "type": "concept",
+    "text": "nucleus ). in prokaryotic cells, most cellular activities take place directly in the cytoplasm. in contrast, plant and animal cells have a well - defined nucleus and several membrane - bound organelles. such cells are called eukaryotic cells ( eu means true, and karyon means nucleus ). more details of the characterstics of prokaryotic and eukaryotic cells is given in table 2. 2. ready to go table 2. 1 : comparison of different kinds of cells based on their structure beyond bacterial plant animal viruses, viroids, s. no. cell structures cell cell cell and prions are acellular ( no 1. cell membrane cells ) infectious agents that 2. cell wall are too small to be seen 3. cytoplasm under a light microscope. well - defined nucleus ( genetic 4. viruses are material enclosed by a membrane ) composed of primitive nucleus ( nucleoid ) ( genetic some genetic 5. material without membrane",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0034",
+    "source_id": "chunk_021",
+    "page": 8,
+    "type": "concept",
+    "text": "too small to be seen 3. cytoplasm under a light microscope. well - defined nucleus ( genetic 4. viruses are material enclosed by a membrane ) composed of primitive nucleus ( nucleoid ) ( genetic some genetic 5. material without membrane around it ) material with a protein coat. 6.",
+    "token_count": 61
+  },
+  {
+    "chunk_id": "fixed_0035",
+    "source_id": "chunk_022",
+    "page": 8,
+    "type": "concept",
+    "text": "membrane - bound organelles viroids lack protein coat around its table 2. 2 : comparison between prokaryotic and eukaryotic cells genetic material, while prions characteristics prokaryotic cell eukaryotic cell are misfolded proteins which primitive nucleus present absent lack genetic material. diameter of a typical cell 1 to 10 µm 10 to 100 µm can be unicellular number of cells in an organism usually unicellular or multicellular membrane - bound organelles absent present membrane - bound nucleus absent present which of the cells given in fig. 2. 10 fall under the categories of prokayotic and eukaryotic cells? ready to go beyond in eukaryotic cells, a network of fine fibres forms the cytoskeleton, which provides structural support, maintains cell shape, and enables cell movement and internal transport. it is visible only under an electron microscope as a separate entity. the cytoplasm may also store starch",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0036",
+    "source_id": "chunk_022",
+    "page": 8,
+    "type": "concept",
+    "text": "fibres forms the cytoskeleton, which provides structural support, maintains cell shape, and enables cell movement and internal transport. it is visible only under an electron microscope as a separate entity. the cytoplasm may also store starch ( in plant cells ), or crystals of calcium oxalate or silica ( in some plant cells ). these are known as cell inclusions.",
+    "token_count": 81
+  },
+  {
+    "chunk_id": "fixed_0037",
+    "source_id": "chunk_023",
+    "page": 9,
+    "type": "concept",
+    "text": "2. 3. 1 why do eukaryotic cells need these organelles? eukaryotic cells carry out various life processes in different cell organelles independently at the same time. cell organelles help in building new materials, removing waste, and providing energy to the cell. they work together to perform all functions of a cell. in other words, a cell is like a tiny living factory, with each of its part doing a specific job. let us explore these specialised structures present inside a cell. nucleus double - layered nucleus — house of coded nuclear membrane nucleolus instructions the nucleus has a double - layered nuclear pore covering called the nuclear membrane, which has pores that allow the transfer chromatin of material between the nucleus and the cytoplasm. the nucleolus is the dense round body in the nucleus, where synthesis of ribosomal subunits take place. these subunits then exit the chromatin nucleus to cytoplasm where one large and",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0038",
+    "source_id": "chunk_023",
+    "page": 9,
+    "type": "concept",
+    "text": "and the cytoplasm. the nucleolus is the dense round body in the nucleus, where synthesis of ribosomal subunits take place. these subunits then exit the chromatin nucleus to cytoplasm where one large and one small subunits assemble to chromosome fig. 2. 11 : structure of a nucleus form ribosome ( fig. 2. 11 ). the nucleus contains chromosomes, which are visible as rod - shaped structures only when the cell is about to divide.",
+    "token_count": 101
+  },
+  {
+    "chunk_id": "fixed_0039",
+    "source_id": "chunk_024",
+    "page": 9,
+    "type": "concept",
+    "text": "chromosomes contain information for inheritance of characters from parents to the next generation in the form of dna ( deoxyribonucleic acid ) molecules. chromosomes are composed of dna and specific proteins. dna molecules contain the genetic information. the functional segments of dna are called genes. in a non - dividing cell, this dna is present as part of chromatin material. chromatin material is visible as an entangled mass of thread - like dna structures. whenever the cell is about to divide, the chromatin material fig. 2. 12 : from cell gets organised into chromosomes ( fig. 2. 12 ). to dna threads of curiosity some cells are specialised to perform specific functions. for example, mature red blood cells ( rbcs ) in humans do not have a nucleus ( enucleate ). the absence of a nucleus provides more space for haemoglobin, allowing it to transport a larger amount of oxygen to all cells of the body. since they lack a",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0040",
+    "source_id": "chunk_024",
+    "page": 9,
+    "type": "concept",
+    "text": ") in humans do not have a nucleus ( enucleate ). the absence of a nucleus provides more space for haemoglobin, allowing it to transport a larger amount of oxygen to all cells of the body. since they lack a nucleus, they cannot repair or divide themselves. as a result, their lifespan is short and they survive approximately for 120 days. do you know any other cells without nucleus? prokaryotic cells do not have a well - defined nucleus.",
+    "token_count": 98
+  },
+  {
+    "chunk_id": "fixed_0041",
+    "source_id": "chunk_025",
+    "page": 9,
+    "type": "concept",
+    "text": "Their DNA is\npresent as a single circular molecule associated with specific proteins. The\nregion containing this genetic material is called the nucleoid.",
+    "token_count": 27
+  },
+  {
+    "chunk_id": "fixed_0042",
+    "source_id": "chunk_026",
+    "page": 10,
+    "type": "concept",
+    "text": "ribosomes — the protein factories these are tiny structures may be present either freely in the cytoplasm or attached to the endoplasmic reticulum. ribosomes are the sites of protein synthesis. smooth endoplasmic endoplasmic reticulum reticulum rough ( er ) — manufacturing factory endoplasmic reticulum the endoplasmic reticulum ( er ) is a large organelle that spreads like a network within the cytoplasm of the ribosome cell. the er is continuous with the outer membrane of nuclear envelop. the er plays a key role in the synthesis and transport of proteins, fats ( lipids ), and some hormones in some of the specialised cell. the structure of the er in a cell varies depending on its function. there are two types of er : - rough endoplasmic reticulum ( rer ) : it looks rough under an electron microscope because it has ribosomes",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0043",
+    "source_id": "chunk_026",
+    "page": 10,
+    "type": "concept",
+    "text": "cell. the structure of the er in a cell varies depending on its function. there are two types of er : - rough endoplasmic reticulum ( rer ) : it looks rough under an electron microscope because it has ribosomes attached to its surface, and is mainly involved in protein synthesis and protein secretion ( for example, in gland cells, such as fig. 2. 13 : endoplasmic reticulum and pancreatic cells ). golgi apparatus — pathway for protein - smooth endoplasmic reticulum ( ser ) : it does processing and secretion not have ribosomes on its surface, and therefore, looks smooth.",
+    "token_count": 138
+  },
+  {
+    "chunk_id": "fixed_0044",
+    "source_id": "chunk_027",
+    "page": 10,
+    "type": "concept",
+    "text": "it is involved in the synthesis, and meet a scientist storage of fats and hormones ( fig. 2. 13 ). the golgi golgi apparatus — the packaging and apparatus was first observed in shipping centres 1898 by an italian if you carefully look at the diagram of a cell scientist, camillo ( fig. 2. 10b and c ), you will notice stacks of flattened, golgi, in the nerve sac - like structures. together, these stacks form the cells of a barn golgi apparatus ( fig. 2. 13 ). it is functionally linked owl. using special to the er, the cell membrane and the other cell staining techniques, he observed a thread - like network. early organelles. the golgi apparatus acts like the cell ’ s microscopes could not resolve it post office. it modifies, sorts, and packages proteins clearly, therefore, many doubted and / or lipids into vesicles for transport, secretion,",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0045",
+    "source_id": "chunk_027",
+    "page": 10,
+    "type": "concept",
+    "text": "the golgi apparatus acts like the cell ’ s microscopes could not resolve it post office. it modifies, sorts, and packages proteins clearly, therefore, many doubted and / or lipids into vesicles for transport, secretion, its existence. however, electron or lysosome formation. microscope observations confirmed it decades later. lysosomes — the clean - up system when the structure was cells produce waste materials and damaged, clearly seen and confirmed, it worn - out organelles during their activities.",
+    "token_count": 106
+  },
+  {
+    "chunk_id": "fixed_0046",
+    "source_id": "chunk_028",
+    "page": 10,
+    "type": "question",
+    "text": "was named the ‘Golgi apparatus’\nHow does the cell prevent these wastes from in his honour. accumulating inside it? Lysosomes are single membrane-bound sacs\nfilled with enzymes, which can break down\nunwanted proteins, carbohydrates, fats, and even\nigloG\nsutarappa\nPlasma\nmembrane\nVesicles",
+    "token_count": 72
+  },
+  {
+    "chunk_id": "fixed_0047",
+    "source_id": "chunk_029",
+    "page": 11,
+    "type": "concept",
+    "text": "damaged parts of the cell, keeping it clean and healthy. the products formed by the breakdown are released into the cytoplasm, where they may be reused in other cellular processes. threads of curiosity human sperm cells contain lysosomal enzymes. when a sperm meets an egg, these enzymes help break down the outer layer of the egg, allowing fertilisation to take place. you will learn about the human sperm cells later in chapter 11. ribosomes mitochondria — the powerhouse of the cell dna mitochondria are often called the ‘ powerhouses of the cell ’ because they supply the energy needed for intermembrane most cellular activities. each mitochondrion ( fig. space 2. 14 ) is surrounded by two membranes : - the outer membrane is smooth and c g u r r a io d s e i t 7 y cristae porous. chapter 9 inner y the inner membrane is folded into finger - like membrane projections called cristae,",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0048",
+    "source_id": "chunk_029",
+    "page": 11,
+    "type": "concept",
+    "text": "two membranes : - the outer membrane is smooth and c g u r r a io d s e i t 7 y cristae porous. chapter 9 inner y the inner membrane is folded into finger - like membrane projections called cristae, which increase outer the surface area for chemical reactions and membrane facilitate energy production. in mitochondria, the glucose and other fig. 2. 14 : structure of a mitochondrion molecules are broken down to release energy during a process called cellular respiration. you have already studied about it.",
+    "token_count": 110
+  },
+  {
+    "chunk_id": "fixed_0049",
+    "source_id": "chunk_030",
+    "page": 11,
+    "type": "concept",
+    "text": "the energy released is stored in the form of a molecule called adenosine triphosphate ( atp ), which acts as the energy currency and is used for most of the cellular activities. plastids — centre for food synthesis in the plant cells and beyond you have learnt that mitochondria provide energy to the cell that comes from food. animals can obtain food from their surroundings, however, plants synthesise food in the presence of sunlight. but where do plants synthesise their food and obtain energy for cellular activities? plants use special organelles called plastids for food synthesis and storage. inner as you have learnt, plants prepare their membrane grade 7 food by the process of photosynthesis in the curiosity chapter 9 presence of sunlight. a green pigment called outer chlorophyll, which is present in the chloroplast membrane ( a type of plastid ) absorbs sunlight. chloroplasts stroma are double - membrane - bound organelles,",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0050",
+    "source_id": "chunk_030",
+    "page": 11,
+    "type": "concept",
+    "text": "green pigment called outer chlorophyll, which is present in the chloroplast membrane ( a type of plastid ) absorbs sunlight. chloroplasts stroma are double - membrane - bound organelles, like dna mitochondria. inside the chloroplast ( fig. 2. 15 ) there is a semi - fluid substance called the stroma. within ribosomes the stroma are disc - shaped membrane structures fig. 2. 15 : structure of a chloroplast that contain chlorophyll. light energy is absorbed",
+    "token_count": 124
+  },
+  {
+    "chunk_id": "fixed_0051",
+    "source_id": "chunk_031",
+    "page": 12,
+    "type": "concept",
+    "text": "by them during photosynthesis. the sugars synthesised in this process are stored in stroma, along with the starch granules. mitochondria and plastids have some features that are similar to certain bacteria. for example, they both have their own dna and ribosomes, and thus, they can make some of their own proteins. these characteristics suggest that both mitochondria and plastids share an evolutionary history with these single - celled organisms. are there any other plastids in plant cells that contain any pigments other than the green pigments? how do flowers, fruits, and vegetables acquire varied colours? in flower petals and fruits, plastids contain pigments other than chlorophyll. these plastids are called chromoplasts ( in greek, chroma means colour ). their pigments ( may be yellow, orange or red ) are the source of bright colours in such flowers and fruits. such",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0052",
+    "source_id": "chunk_031",
+    "page": 12,
+    "type": "concept",
+    "text": "##hyll. these plastids are called chromoplasts ( in greek, chroma means colour ). their pigments ( may be yellow, orange or red ) are the source of bright colours in such flowers and fruits. such bright colours help in attracting pollinators for pollination and fruit - eating animals that help in seed dispersal. some plastids lack pigments and are thus, colourless. these are called leucoplasts ( in greek, leukos means white ).",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "fixed_0053",
+    "source_id": "chunk_032",
+    "page": 12,
+    "type": "concept",
+    "text": "leucoplasts store food material, such as starch, oils or proteins and are classified based on the type of food they store. for example, some leucoplasts in potato and taro ( colocasia ) cells store starch. vacuoles — the organelles for storage and support plastids, such as chloroplasts help plants produce food and temporarily store it. other plastids, such as leucoplasts help in storing food. but where are water, minerals, and waste materials stored in the cell? why do plants look wilted when they do not get enough water? in a mature plant cell, there is usually one large central vacuole surrounded by a single selectively permeable membrane. the vacuole is filled with a watery fluid called cell sap. the vacuole stores water, minerals, sugars and waste material. by storing large amounts of water, the vacuole helps maintain pressure inside",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0054",
+    "source_id": "chunk_032",
+    "page": 12,
+    "type": "concept",
+    "text": "##ly permeable membrane. the vacuole is filled with a watery fluid called cell sap. the vacuole stores water, minerals, sugars and waste material. by storing large amounts of water, the vacuole helps maintain pressure inside the cell, which keeps a plant cell firm. when a plant does not get enough water, the vacuole loses water, the cells become less firm, and the plant gets wilted. in animal cells, vacuoles are sometimes present. although they are not as large as plant vacuoles, they help in the temporary storage of materials. pause and ponder 4.",
+    "token_count": 126
+  },
+  {
+    "chunk_id": "fixed_0055",
+    "source_id": "chunk_033",
+    "page": 12,
+    "type": "concept",
+    "text": "Do white flowers contain any pigment? Give reasons. 5. Draw a well-labelled schematic diagram of a plant or an animal cell using\nthese clues —\n(i) Nucleus appears as a dark and round body inside the cell. (ii) ER spreads like a network of extended nuclear envelope. (iii) Mitochondria and chloroplasts are rod shaped. You may refer to Fig. 2.10.",
+    "token_count": 87
+  },
+  {
+    "chunk_id": "fixed_0056",
+    "source_id": "chunk_034",
+    "page": 13,
+    "type": "concept",
+    "text": "threads of curiosity in 2010, scientist j. craig venter and his team made an important discovery in the field of synthetic biology. they first studied the complete dna sequence of a simple bacterium called mycoplasma mycoides using a computer programming. then, they chemically synthesised ( in the laboratory ) an exact copy of this dna. next, they took another closely related bacterium and removed its dna, but kept the rest of the cell ( such as the cytoplasm and the cell membrane ) intact. they inserted the synthetic dna into this cell. after this, the cell started to grow and divide, following the instructions from the newly inserted synthetic dna. this experiment showed that dna controls the structure and activities of a cell. however, scientists did not create a completely new cell from scratch. only the dna was synthetic. the other parts of the cell were taken from an already existing living cell. 2. 4 how do normal cells grow and divide? when you get a small cut",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0057",
+    "source_id": "chunk_034",
+    "page": 13,
+    "type": "concept",
+    "text": ", scientists did not create a completely new cell from scratch. only the dna was synthetic. the other parts of the cell were taken from an already existing living cell. 2. 4 how do normal cells grow and divide? when you get a small cut on your skin, it heals after a few days. when hair fall out, new hair grow back. how does this happen? it happens because cells in our body can grow and divide to replace the old, dead, or damaged cells.",
+    "token_count": 99
+  },
+  {
+    "chunk_id": "fixed_0058",
+    "source_id": "chunk_035",
+    "page": 13,
+    "type": "concept",
+    "text": "When our body grows, it is not just because cells get bigger. Cells can\ngrow only up to a certain size but growth happens because cells divide\nto form new cells. Let us study freshly growing root tips of an onion to\nunderstand how cells divide (Fig. 2.16).",
+    "token_count": 57
+  },
+  {
+    "chunk_id": "fixed_0059",
+    "source_id": "chunk_036",
+    "page": 13,
+    "type": "activity",
+    "text": "activity 2. 5 : let us enhance our skills 1. take a jar and fill it up with plain water. fig. 2. 16 : growing roots of an onion in a 2. now, place an onion bulb over the jar in such a way that its base jar containing water bearing roots, is immersed in the water. 3. leave the setup for 5 – 6 days and observe. do you observe the roots growing? cut 2 – 3 cm of the freshly grown roots and transfer them to freshly prepared aceto - alcohol ( glacial acetic acid : ethanol : : 1 : 3 ). keep the root tips in aceto - alcohol for 24 hours and then transfer them to 70 per cent ethanol ( for preservation ). 4. take one or two preserved roots, wash them in water and then, place them on a clean slide. 5. put one drop of dilute hydrochloric acid ( hcl ) on the root tips to soften the tissue. rinse the roots",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0060",
+    "source_id": "chunk_036",
+    "page": 13,
+    "type": "activity",
+    "text": "or two preserved roots, wash them in water and then, place them on a clean slide. 5. put one drop of dilute hydrochloric acid ( hcl ) on the root tips to soften the tissue. rinse the roots after 10 – 15 minutes. then add 2 – 3 drops of aceto - carmine stain on them. 6. leave the slide for 5 – 10 minutes and then, gently warm it ( with caution ) over a spirit lamp. 7. cut the tip portion of the root on the slide and put a coverslip. gently squash the coverslip with your thumb to spread the cells on the slide. 8. observe the slide under a microscope.",
+    "token_count": 139
+  },
+  {
+    "chunk_id": "fixed_0061",
+    "source_id": "chunk_037",
+    "page": 14,
+    "type": "question",
+    "text": "what do you observe? do you observe the cells of the onion root tip? are they similar in structure? do you find any structural differences in these cells? if yes, why is it so? this is because the cells of a growing tip of root of onion divide continuously. this process is called cell division. fig. 2. 17 shows various stages of cell division. therefore, these cells exhibit different structures corresponding to different stages of cell division. can you identify which stage comes first during cell division? every day, an estimated hundreds of billions of cells in our body are replaced, which is almost 1 per cent of the total number of cells in our body. both prokaryotic and eukaryotic cells divide, but eukaryotic cells divide in a more controlled and orderly manner by a process called the cell cycle. l n e e v x e t l you will learn about the stages of cell division in higher grades. up fig. 2. 17 : different stages of",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0062",
+    "source_id": "chunk_037",
+    "page": 14,
+    "type": "question",
+    "text": "##tic cells divide in a more controlled and orderly manner by a process called the cell cycle. l n e e v x e t l you will learn about the stages of cell division in higher grades. up fig. 2. 17 : different stages of cell division in onion root tip cells 2. 4. 1 cell division cell division is the process by which new cells are formed from pre - existing cells. it allows living organisms to grow, repair damaged tissues and reproduce.",
+    "token_count": 94
+  },
+  {
+    "chunk_id": "fixed_0063",
+    "source_id": "chunk_038",
+    "page": 14,
+    "type": "concept",
+    "text": "Some cells, such as skin cells divide continuously\nto replace cells that are lost regularly. There are two major types of\ncell division — mitosis and meiosis. Mitosis is important for normal\ngrowth, repair, maintenance and asexual reproduction, while meiosis is\nimportant for sexual reproduction for creation of genetic diversity. Mitosis\nEvery human begins life as a single fertilised\negg. This one cell divides repeatedly to form\ntrillions of cells in the body. Cells increase in\nnumber through mitosis, which is the most\ncommon type of cell division (Fig. 2.18). Mitosis produces two genetically identical\ndaughter cells from one parent cell. Each new\ncell gets the same DNA and the same number of\nchromosomes as the parent cell. This ensures\nthat genetic information is largely maintained\nacross body cells. Fig. 2.18: Mitosis is the process\nthat produces two genetically\nidentical daughter cells",
+    "token_count": 179
+  },
+  {
+    "chunk_id": "fixed_0064",
+    "source_id": "chunk_039",
+    "page": 15,
+    "type": "concept",
+    "text": "meiosis meiosis is a type of cell division that produces gametes and occurs only in the cells of reproductive organs. gametes produced for sexual reproduction create variations and diversity among living organisms. therefore, children resemble their parents but are not exactly the same. in animals including humans, meiosis occurs only in the cells of testes of males to produce sperm and ovaries of females to produce eggs. in plants, meiosis occurs in the anthers ( male parts ) to form pollen grains ( that later produce sperm cells ) and the ovaries ( female parts ) to produces egg fig. 2. 19 : meiosis is a two - step process cells. in meiosis, the parent cell divides twice, one that produces four gametes after the other, to form four daughter cells ( fig. 2. 19 ). meet a scientist during the first division, the cells divide into two daughter cells and the number of chromosomes in arun each daughter cell is reduced to half. the second kumar",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0065",
+    "source_id": "chunk_039",
+    "page": 15,
+    "type": "concept",
+    "text": "after the other, to form four daughter cells ( fig. 2. 19 ). meet a scientist during the first division, the cells divide into two daughter cells and the number of chromosomes in arun each daughter cell is reduced to half. the second kumar division is similar to mitosis where each daughter cell sharma divides into two thus, forming four daughter cells with was a half the number of chromosomes.",
+    "token_count": 79
+  },
+  {
+    "chunk_id": "fixed_0066",
+    "source_id": "chunk_040",
+    "page": 15,
+    "type": "concept",
+    "text": "as a result, each famous indian gamete has half the number of dna compared to the scientist parent cell. during fertilisation, when gametes from known for two individuals combine, the original chromosome next his work on chromosomes. level number is restored. you will learn about this process up as a botanist, he is known in detail in chapter 11. for his work in the area of plant taxonomy, evolution bridging science and society and development. he also invented many useful scientists have developed methods to grow plant and animal lab methods to study cells outside the body in special conditions. this is called cell chromosomes in plants. for culture. in this process, cells are taken from an organism and his contributions to botany, placed in a nutrient - rich medium that allows them to grow he received many honours, and multiply. to keep the culture safe, the right temperature, including the shanti acidic or alkaline conditions and moisture under sterile swarup bhatnagar award conditions are maintained",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0067",
+    "source_id": "chunk_040",
+    "page": 15,
+    "type": "concept",
+    "text": "rich medium that allows them to grow he received many honours, and multiply. to keep the culture safe, the right temperature, including the shanti acidic or alkaline conditions and moisture under sterile swarup bhatnagar award conditions are maintained. cell culture is crucial for studying and padma bhushan. how cells work and for the production of biochemicals, food, medicines, vaccines, and more.",
+    "token_count": 84
+  },
+  {
+    "chunk_id": "fixed_0068",
+    "source_id": "chunk_041",
+    "page": 15,
+    "type": "question",
+    "text": "The processes of mitosis and meiosis must occur in a\nPause and Ponder\nproper and controlled manner. What happens if meiosis\n6. Instead of many small ones, why and mitosis do not happen properly? If there is any error\ndoes a cell not have a single giant in these processes, it can lead to various problems in the\nmitochondrion? How does this body of an organism. relate to the concept of surface\nErrors in mitosis lead to uncontrolled cell divisions. area? This can lead to the formation of tumours and abnormal\n7. If the skin cells start dividing by\nnumber of chromosomes in body cells. meiosis instead of mitosis, what\nErrors in meiosis may result in genetic disorders,\ndo you think will happen to a\ncut on the skin? which may be associated with developmental problems\nor distinctive physical features. Faulty meiosis may also\ncause early pregnancy loss or reduced fertility.",
+    "token_count": 184
+  },
+  {
+    "chunk_id": "fixed_0069",
+    "source_id": "chunk_042",
+    "page": 16,
+    "type": "concept",
+    "text": "2. 5 cell theory — the unifying principle of biology meet a scientist an important observation about living organisms is that all in 1902, the organisms are made up of cells. in 1838, a german botanist austrian named matthias schleiden reported that all plants are made botanist, up of cells. in 1839, german zoologist theodor schwann, found gottlieb that all animals are also made up of cells. later, in 1855, a haberlandt, german scientist named rudolf virchow, further expanded proposed the cell theory by stating that new cells are formed only from that any pre - existing cells. together, their work led to the formulation of living plant cell, even a fully mature cell from the cell theory. a permanent tissue, can according to the classical cell theory : develop into a complete - all living organisms are made up of one or more cells. plant if it is provided with - the cell is the basic unit of structure and function in living suitable nutrients",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0070",
+    "source_id": "chunk_042",
+    "page": 16,
+    "type": "concept",
+    "text": "a permanent tissue, can according to the classical cell theory : develop into a complete - all living organisms are made up of one or more cells. plant if it is provided with - the cell is the basic unit of structure and function in living suitable nutrients and favourable conditions. he beings. suggested that plant cells - all cells arise from pre - existing cells. have the ability to form this unifies all biology, from bacteria to humans, and explains different types of cells and also change them.",
+    "token_count": 98
+  },
+  {
+    "chunk_id": "fixed_0071",
+    "source_id": "chunk_043",
+    "page": 16,
+    "type": "concept",
+    "text": "this life ’ s continuity through cell division. special ability of plant 2. 5. 1 do cells grow and reproduce forever? cells is called totipotency. haberlandt ’ s idea laid cells grow and divide in a controlled way, stay in the right place, the foundation for a new carry out their functions, and eventually die when they are no branch of biology known longer needed. dead cells are replaced by new cells that carry as plant tissue culture out the same function. thus, every cell has a definite life span. if technology. cells do not die when they should or if they die too early problems can arise in the body. in many animal cells, cell division usually stops when cells come in contact with neighbouring cells. this process is called contact inhibition. however, cancer cells lose threads of this control and keep dividing uncontrollably, leading to the curiosity formation of tumours. plant cells grow differently. due to their rigid cell walls plant cells do not show",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0072",
+    "source_id": "chunk_043",
+    "page": 16,
+    "type": "concept",
+    "text": "process is called contact inhibition. however, cancer cells lose threads of this control and keep dividing uncontrollably, leading to the curiosity formation of tumours. plant cells grow differently. due to their rigid cell walls plant cells do not show contact inhibition and how do cancer cells grow follow a different pattern of growth. and spread? even though cells are extremely tiny they perform normal cells grow, age remarkable functions.",
+    "token_count": 84
+  },
+  {
+    "chunk_id": "fixed_0073",
+    "source_id": "chunk_044",
+    "page": 16,
+    "type": "concept",
+    "text": "they produce energy, synthesise and and die in a controlled manner. sometimes, this secrete substances, divide to form new cells, and work together system breaks down, to maintain the proper functioning of the body. every living being and abnormal cells start from a tiny bacterium to a giant tree is made up of cells. you are growing and dividing one of the products of these tiny hardworking cells. uncontrollably. this results in the formation ready to go beyond of tumours, which may be benign or malignant. how do cells monitor their growth to maintain a balance? cancerous tumours can cells also have natural ways of dying to maintain a balance. invade nearby tissues programmed cell death ( pcd ) is a genetically regulated and and even spread to other organised process of selective cell destruction. it is essential for parts of the body to form normal development, cellular quality control and immune function. new tumours. when an embryo develops, the pcd helps form fingers",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0074",
+    "source_id": "chunk_044",
+    "page": 16,
+    "type": "concept",
+    "text": "regulated and and even spread to other organised process of selective cell destruction. it is essential for parts of the body to form normal development, cellular quality control and immune function. new tumours. when an embryo develops, the pcd helps form fingers by eliminating cells between digits, without it we would have webbed hands. explore different ways by which cells maintain themselves.",
+    "token_count": 74
+  },
+  {
+    "chunk_id": "fixed_0075",
+    "source_id": "chunk_045",
+    "page": 17,
+    "type": "summary",
+    "text": "- the cell is the basic structural and functional unit of all living organisms. - prokaryotic cells do not have a well - defined nucleus, instead their genetic material is present in a region called the nucleoid. they also lack membrane - bound organelles. - eukaryotic cells are larger and more complex. they have a welldefined nucleus and several membrane - bound organelles. - all cells are surrounded by a cell membrane. in addition, cells of plants, fungi and bacteria have a cell wall outside the cell membrane. - the nucleus of eukaryotic cells contains chromosomes, which are composed of dna and associated proteins, which carry genetic information. - all cells are filled with cytoplasm. in eukaryotic cells, cytoplasm contains several cell organelles, each performing a specific function. - important cell organelles include the nucleus, endoplasmic reticulum, mitochondria, golgi apparatus, riboso",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0076",
+    "source_id": "chunk_045",
+    "page": 17,
+    "type": "summary",
+    "text": "##karyotic cells, cytoplasm contains several cell organelles, each performing a specific function. - important cell organelles include the nucleus, endoplasmic reticulum, mitochondria, golgi apparatus, ribosomes and lysosomes. - plant cells also contain special organelles called plastids, such as chloroplasts, leucoplasts and chromoplasts. - mitosis produces two daughter cells identical to the parent cell.",
+    "token_count": 103
+  },
+  {
+    "chunk_id": "fixed_0077",
+    "source_id": "chunk_046",
+    "page": 17,
+    "type": "summary",
+    "text": "- Meiosis is a two-step division process which produces four daughter\ncells, each having half the number of chromosomes. - Normal cells grow in a controlled manner, perform their functions\nand die naturally, while cancer cells lose control and keep dividing\nuncontrollably leading to the formation of tumours. Revise, Reflect, Refine\n1. Differentiate between the following pairs of terms based on the clues\ngiven in parentheses:\n(i) Cell membrane and cell wall (permeability)\n(ii) RER and SER (structure)\n(iii) Chloroplasts and chromoplasts (pigments)\n2. Two similar animal cells are placed in two different solutions:\n- Cell X is placed in pure water. - Cell Y is placed in a concentrated salt solution.",
+    "token_count": 160
+  },
+  {
+    "chunk_id": "fixed_0078",
+    "source_id": "chunk_047",
+    "page": 18,
+    "type": "summary",
+    "text": "cells are observed after some time. cell x swells, and cell y shrinks. which statement provides the correct explanation for the above observations? ( i ) salt molecules moved into cell y, causing it to shrink. ( ii ) water moved into cell x and more water moved out of cell y than the salt solution entered in it. ( iii ) water moved into cell x and moved out of cell y through the cell membrane. ( iv ) solute movement caused osmosis in both cells. 3. look at the diagram of a cell in fig. 2. 20. identify the parts labelled from ( a ) to ( g ) and correctly match them with their functions given below : ( i ) controlling all the activities of a cell. ( ii ) site of cellular respiration. ( d ) ( iii ) storage organelle that also provides rigidity to the ( a ) ( e ) cell. ( b ) ( iv ) separates the cell contents from surroundings. ( c ) (",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0079",
+    "source_id": "chunk_047",
+    "page": 18,
+    "type": "summary",
+    "text": "( ii ) site of cellular respiration. ( d ) ( iii ) storage organelle that also provides rigidity to the ( a ) ( e ) cell. ( b ) ( iv ) separates the cell contents from surroundings. ( c ) ( f ) ( v ) provides structural rigidity to the cell. ( vi ) packs and stores materials received from er. ( g ) ( vii ) helps in manufacturing food. 4. which of the following option ( s ) of the pairs of cell fig. 2. 20 organelles are correctly placed under the given categories?",
+    "token_count": 115
+  },
+  {
+    "chunk_id": "fixed_0080",
+    "source_id": "chunk_048",
+    "page": 18,
+    "type": "summary",
+    "text": "option present in the plant cells absent in the animal cells ( i ) leucoplast cell wall ( ii ) mitochondria ribosome ( iii ) cell wall golgi apparatus ( iv ) lysosome endoplasmic reticulum 5. two students, renu and rohit, were having a discussion on the plastids. renu emphasised that all parts of the plants, even roots, contain plastids. however, rohit did not agree with the statement and told her that plastids are absent in plant roots since the roots are underground and do not need to perform photosynthesis. who is correct? justify your answer. 6. mitochondria and chloroplasts are two important organelles in a plant cell. discuss how these two organelles are structurally and functionally similar to each other, and different from each other. 7. which of the following pairs of cell organelles contains dna? ( i )",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0081",
+    "source_id": "chunk_048",
+    "page": 18,
+    "type": "summary",
+    "text": "##ts are two important organelles in a plant cell. discuss how these two organelles are structurally and functionally similar to each other, and different from each other. 7. which of the following pairs of cell organelles contains dna? ( i ) chloroplasts, ribosomes ( ii ) mitochondria, nucleus ( iii ) golgi bodies, ribosomes ( iv ) nucleus, lysosomes",
+    "token_count": 88
+  },
+  {
+    "chunk_id": "fixed_0082",
+    "source_id": "chunk_049",
+    "page": 19,
+    "type": "exercise",
+    "text": "8. a researcher carried out an experiment in which she took two carrots of similar size. she placed one carrot in plain water and the other carrot in concentrated salt solution ( fig. 2. 21 ). after 24 hours she recorded her observations. ( i ) what hypothesis does she want to test through this experiment? a b ( ii ) what would you suggest for the improvement of this experiment? fig. 2. 21 : experimental ( iii ) why does the carrot in plain water stay stiff and crunchy, but the set - up having carrot carrot in concentrated salt solution become rubbery and limp? ( a ) in plain water, and ( b ) in salt solution 9. indicate the presence or absence of following structures in bacterial and animal cells : structures in a cell bacterial cell animal cell chromosome nucleus mitochondria golgi complex chromoplasts 10. carry out the following experiment : take four peeled potato halves and scoop each one out to make potato cups. one of these",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0083",
+    "source_id": "chunk_049",
+    "page": 19,
+    "type": "exercise",
+    "text": ": structures in a cell bacterial cell animal cell chromosome nucleus mitochondria golgi complex chromoplasts 10. carry out the following experiment : take four peeled potato halves and scoop each one out to make potato cups. one of these potato cups should be made from a boiled potato. place each of the potato cups in a beaker containing water ( fig. 2. 22 ). now, set up the experiment as follows : ( a ) keep cup a empty. ( b ) add one teaspoon sugar in cup b. ( c ) add one teaspoon salt in cup c.",
+    "token_count": 123
+  },
+  {
+    "chunk_id": "fixed_0084",
+    "source_id": "chunk_050",
+    "page": 19,
+    "type": "exercise",
+    "text": "(d) Add one teaspoon sugar in the boiled potato in Cup D. Observe the four potato cups at least two hours and answer the following\nquestions:\n(i) Explain why water gathers in the hollowed portion of Cup B and\nCup C. (ii) Why is Cup A necessary for this experiment? (iii) Explain why water does not gather in the hollowed portions of\nCups A and D. Fig. 2.22: Experimental 11. Identify the pair that incorrectly matches the cell organelle with\nset-up\nits function. (i) Ribosome — Protein synthesis\n(ii) SER — Lipid and cellulose synthesis\n(iii) Lysosome — Digestion of foreign agents\n12. What outcome do you expect, if all the mitochondria are removed from\na eukaryotic cell? 13. Which phenomenon inhibits the formation of tumors in the human\nbody? Can plants also develop tumors? Explain.",
+    "token_count": 191
+  },
+  {
+    "chunk_id": "fixed_0085",
+    "source_id": "chunk_051",
+    "page": 20,
+    "type": "exercise",
+    "text": "14. the cell membrane of a cell is made up of proteins and lipids. which cell organelles help in the synthesis of cell membrane? write the path of these compounds from their site of synthesis to the cell membrane and show this through a labelled diagram. 15. what would happen if gametes are formed by mitotic divisions? 16. a farmer, deepa, was very happy with the harvest of amla ( indian gooseberry ) and lemons on her farm. however, she could sell only onefourth of the produce in the local market. recognising that a significant amount of produce may be lost post - harvest, she employed a traditional yet scientifically sound method to extend the shelf life of amla and lemons. she turned perishable produce into profitable products, such as pickles and sharbat. she used the excess produce to prepare pickles, murabbas, and sharbat by adding appropriate amounts of salt, sugar, or",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0086",
+    "source_id": "chunk_051",
+    "page": 20,
+    "type": "exercise",
+    "text": "##s. she turned perishable produce into profitable products, such as pickles and sharbat. she used the excess produce to prepare pickles, murabbas, and sharbat by adding appropriate amounts of salt, sugar, or jaggery to small pieces of fruit and their juices. these were then stored in small glass bottles for sale, helping her prevent the wastage of post - harvest produce.",
+    "token_count": 85
+  },
+  {
+    "chunk_id": "fixed_0087",
+    "source_id": "chunk_052",
+    "page": 20,
+    "type": "exercise",
+    "text": "this shift from farming to agro - processing would strengthen food security and boost the local economy, creating a sustainable model that cuts waste while increasing her income. based on the above passage answer the following questions : ( i ) which scientific concept has the farmer applied in the preservation of the farm produce? ( ii ) how does the addition of high concentrations of salt and sugar create an environment that prevents the growth of spoilage - causing bacteria and fungi? ( iii ) suggest a healthy recipe of this kind for food preservation. ( iv ) what are the scientific values addressed in this case? the journey beyond - use selected software or digital tools to create animations or simulations of cell division and share them in the class. - create a model of any type of a ‘ synthetic cell ’ using low - cost eco - friendly material. - build a mitosis or meiosis model with your classmates for your science project or exhibition. how did teamwork contribute to the success of the activity? did this activity change your",
+    "token_count": 200
+  },
+  {
+    "chunk_id": "fixed_0088",
+    "source_id": "chunk_052",
+    "page": 20,
+    "type": "exercise",
+    "text": "a ‘ synthetic cell ’ using low - cost eco - friendly material. - build a mitosis or meiosis model with your classmates for your science project or exhibition. how did teamwork contribute to the success of the activity? did this activity change your perspective or understanding of the cell division topic in any way? if so, explain how?",
+    "token_count": 68
+  },
+  {
+    "chunk_id": "fixed_0089",
+    "source_id": "chunk_053",
+    "page": 20,
+    "type": "exercise",
+    "text": "- Develop a nukkad natak for community awareness in simple dialogues\nabout the different functions of cell organelles. The Quest Continues …\nWhat is the future of the development of synthetic cells using non-living chemicals? If a synthetic cell is developed, what may be the related ethical issues?",
+    "token_count": 58
+  }
+]

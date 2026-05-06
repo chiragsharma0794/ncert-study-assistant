@@ -10,11 +10,19 @@ transformers>=4.40         # BERT WordPiece tokenizer for token counting
 rank-bm25>=0.2.2           # Okapi BM25 implementation
 scikit-learn>=1.5          # TF-IDF vectorizer + cosine similarity
 
+# ── Dense Retrieval (V2) ──────────────────────────────────
+sentence-transformers>=3.0 # cross-encoder re-ranking for HybridRetriever
+faiss-cpu>=1.7.0           # FAISS vector index for FAISSRetriever
+
 # ── LLM Generation (Gemini) ────────────────────────────────
 google-genai>=1.0          # Google Gemini API client (new SDK)
 
 # ── Data Science Essentials ─────────────────────────────────
 numpy>=1.26                # numerical arrays
 
+# ── Web UI (V2) ────────────────────────────────────────────
+streamlit>=1.35            # Streamlit app framework
+
 # ── Utilities ──────────────────────────────────────────────
 python-dotenv>=1.0.0       # load API keys from .env safely
+filelock>=3.0              # atomic file writes for ResponseCache

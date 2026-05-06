@@ -1,0 +1,9 @@
+{
+  "chunks_hash": "7261eeb276fe54837148db2cb22606732e23fb4db03d77841f4d9acef341ccc6",
+  "chunks_path": "D:\\ncert-study-assistant-v2-merge\\outputs\\chunks_semantic.json",
+  "model_name": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "n_chunks": 85,
+  "index_type": "IndexFlatIP",
+  "normalized": true
+}

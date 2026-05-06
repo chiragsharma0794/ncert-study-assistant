@@ -1,0 +1,472 @@
+{
+  "metrics": {
+    "version": "v2",
+    "total_questions": 20,
+    "v1_metrics": {
+      "correctness_pct": 0.0,
+      "grounding_pct": 100.0,
+      "refusal_accuracy_pct": 70.0
+    },
+    "v2_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.929,
+      "context_recall": 0.859
+    },
+    "combined_score": 0.453,
+    "by_type": {
+      "factual": {
+        "count": 8,
+        "correctness": 0.0,
+        "grounding": 1.0,
+        "refusal": 1.0,
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.03,
+        "context_precision": 0.875,
+        "context_recall": 0.887
+      },
+      "paraphrased": {
+        "count": 6,
+        "correctness": 0.0,
+        "grounding": 1.0,
+        "refusal": 1.0,
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.03,
+        "context_precision": 1.0,
+        "context_recall": 0.821
+      },
+      "out_of_scope": {
+        "count": 6,
+        "correctness": 0.0,
+        "grounding": 0.0,
+        "refusal": 0.0,
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.0,
+        "context_precision": 0.0,
+        "context_recall": 0.0
+      }
+    }
+  },
+  "results": [
+    {
+      "id": "q01",
+      "question": "What is the basic structural and functional unit of all living organisms?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9988364577293396,
+        0.9977973699569702,
+        0.8730679750442505
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q02",
+      "question": "What is the cell membrane also called?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9993858337402344,
+        0.9782009124755859,
+        0.40899983048439026
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q03",
+      "question": "What is the function of mitochondria in a cell?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.40722501277923584,
+        0.2859570384025574,
+        0.060247380286455154
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.8,
+      "context_recall": 0.818
+    },
+    {
+      "id": "q04",
+      "question": "What are lysosomes and what do they do?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.998023509979248,
+        0.035850390791893005,
+        0.012749424204230309
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.6,
+      "context_recall": 0.8
+    },
+    {
+      "id": "q05",
+      "question": "What is the main component of the plant cell wall?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9358994364738464,
+        0.5434935688972473,
+        0.43149030208587646
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q06",
+      "question": "What are the two types of endoplasmic reticulum?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9996622800827026,
+        0.779746949672699,
+        0.25254181027412415
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.9
+    },
+    {
+      "id": "q07",
+      "question": "What is the difference between prokaryotic and eukaryotic cells?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9970081448554993,
+        0.9958593249320984,
+        0.9900140762329102
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.909
+    },
+    {
+      "id": "q08",
+      "question": "What are chromoplasts?",
+      "type": "factual",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.5011346936225891,
+        0.48464253544807434,
+        0.11224279552698135
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.6,
+      "context_recall": 0.667
+    },
+    {
+      "id": "q09",
+      "question": "How does water enter root cells from the soil?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9978354573249817,
+        0.9412964582443237,
+        0.0018807227024808526
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q10",
+      "question": "Why do plant cells maintain their shape even without muscles?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9608902931213379,
+        0.9223844408988953,
+        0.8360245227813721
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.917
+    },
+    {
+      "id": "q11",
+      "question": "Which organelle is responsible for making proteins in the cell?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9859775304794312,
+        0.6665165424346924,
+        0.4306739568710327
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.625
+    },
+    {
+      "id": "q12",
+      "question": "What happens to a plant cell when it loses water?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9988295435905457,
+        0.9984709620475769,
+        0.8383421897888184
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.812
+    },
+    {
+      "id": "q13",
+      "question": "How do cells produce new cells for growth and repair?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9322018027305603,
+        0.8284481167793274,
+        0.5909967422485352
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.857
+    },
+    {
+      "id": "q14",
+      "question": "What kind of cell division produces gametes and how is it different from regular division?",
+      "type": "paraphrased",
+      "in_scope": true,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.9634820222854614,
+        0.29403987526893616,
+        0.07485974580049515
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 1,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 1.0,
+      "context_recall": 0.714
+    },
+    {
+      "id": "q15",
+      "question": "What is the atomic number of carbon?",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        1.546084058645647e-05,
+        1.4082780580793042e-05,
+        1.3582734936790075e-05
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q16",
+      "question": "Explain Newton's third law of motion.",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        1.5024862477730494e-05,
+        1.4386152543011121e-05,
+        1.4359206033986993e-05
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q17",
+      "question": "Who invented the telescope?",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        5.19238856213633e-05,
+        3.94796188629698e-05,
+        2.3358239559456706e-05
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q18",
+      "question": "What is the speed of sound in air?",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        2.3241496819537133e-05,
+        1.3937429685029201e-05,
+        1.3064501217741054e-05
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q19",
+      "question": "How does photosynthesis work in detail?",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        0.01275135762989521,
+        0.0030783358961343765,
+        0.00037248068838380277
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "q20",
+      "question": "What are the properties of acids and bases?",
+      "type": "out_of_scope",
+      "in_scope": false,
+      "answer": "[DRY-RUN]",
+      "sources": [],
+      "refused": false,
+      "retrieval_scores": [
+        1.885636811493896e-05,
+        1.8155062207370065e-05,
+        1.6803958715172485e-05
+      ],
+      "correctness": 0,
+      "grounding": 1,
+      "refusal_correct": 0,
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.03,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    }
+  ]
+}

@@ -12,6 +12,7 @@ env/
 
 # ── Secrets ─────────────────────────────────
 .env
+outputs/response_cache.json
 
 # ── Jupyter ─────────────────────────────────
 .ipynb_checkpoints/

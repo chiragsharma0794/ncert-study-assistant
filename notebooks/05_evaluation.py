@@ -79,7 +79,7 @@ print(f"\n{retriever}")
 
 # Generator
 if not DRY_RUN:
-    generator = GroundedGenerator(api_key=api_key, model_name="gemini-2.0-flash")
+    generator = GroundedGenerator(api_key=api_key, model_name="gemini-2.5-flash-lite")
     print(f"{generator}")
 else:
     generator = None

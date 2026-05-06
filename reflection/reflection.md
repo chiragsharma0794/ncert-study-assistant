@@ -43,7 +43,7 @@ The first version of my corpus preparation had two significant bugs:
 
 My retrieval analysis shows 13/14 in-scope queries achieving "GOOD" BM25 scores (> 5.0).  The single weak query -- "What are chromoplasts?" -- scored only 4.36 because the term appears rarely in the corpus.  This is a vocabulary coverage problem, not a retriever problem.
 
-[When I run the full evaluation with Gemini, I expect correctness around ___%, with failures concentrated on paraphrased queries where BM25 can't match synonyms.  The grounding score should be high because the prompt strictly constrains the model.  Refusal accuracy on out-of-scope questions is the most important metric -- if the model hallucates answers about telescopes using cell biology chunks, the grounding prompt has failed.]
+[UPDATE (V2 results): The live evaluation with Gemini achieved 85.7% correctness on in-scope queries, with all 6 paraphrased queries answered correctly (100%) and factual queries at 75%.  Contrary to my expectation, paraphrased queries performed *better* than factual ones because BM25 still retrieves relevant context even with different phrasing -- the Gemini generation step handles synonym resolution well.  Grounding is 100% (no hallucination detected), and all 6 out-of-scope queries were correctly refused (100% OOS refusal).  The RAGAS-style faithfulness score is 1.0, meaning every sentence in every answer is traceable to retrieved context.  The weakest metric is answer relevancy (0.628) because our heuristic penalizes short but correct answers like "The cell membrane is also called the plasma membrane [1]."]
 
 ## Why RAG is Better Than Plain ChatGPT Here
 

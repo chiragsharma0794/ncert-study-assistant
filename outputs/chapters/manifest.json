@@ -1,0 +1,12 @@
+{
+  "chapters": {
+    "2": {
+      "chapter_num": 2,
+      "chapter_title": "Cell: The Building Block of Life",
+      "pdf_file": "iesc102.pdf",
+      "n_chunks": 80,
+      "shard_file": "ch02_chunks.json",
+      "content_hash": "858f111115110c2d"
+    }
+  }
+}
